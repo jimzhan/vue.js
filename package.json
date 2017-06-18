@@ -1,0 +1,35 @@
+{
+  "name": "vue.js",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/jimzhan/vue.js",
+  "author": "Jim Zhan <jim.zhan@me.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "chai": "^4.0.2",
+    "font-awesome": "^4.7.0",
+    "foundation-sites": "^6.3.1",
+    "jquery": "^3.2.1",
+    "mocha": "^3.4.2",
+    "semver": "^5.3.0",
+    "supertest": "^3.0.0",
+    "vue": "^2.3.4",
+    "vue-router": "^2.6.0",
+    "vuex": "^2.3.1",
+    "what-input": "^4.2.0",
+    "winston": "^2.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.1.1",
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.25.0",
+    "babel-eslint": "^7.2.3",
+    "webpack": "^2.6.1",
+    "webpack-bundle-analyzer": "^2.8.2",
+    "webpack-dev-middleware": "^1.10.2",
+    "webpack-dev-server": "^2.4.5",
+    "webpack-hot-middleware": "^2.18.0",
+    "webpack-merge": "^4.1.0"
+  }
+}
