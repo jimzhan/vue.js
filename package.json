@@ -1,6 +1,6 @@
 {
   "name": "vue.js",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "src/index.js",
   "repository": "https://github.com/jimzhan/vue.js",
   "author": "Jim Zhan <jim.zhan@me.com>",
