@@ -7,16 +7,18 @@
       <p>This is a Modal Dialog</p>
     </modal>
     <progress-bar ref="progressBar" v-bind:progress="progress"></progress-bar>
+    <slider></slider>
   </div>
 </template>
 
 <script>
 import Modal from '@components/Modal';
 import ProgressBar from '@components/ProgressBar';
+import Slider from '@components/Slider';
 
 export default {
   name: 'demo',
-  components: { ProgressBar, Modal },
+  components: { ProgressBar, Modal, Slider },
   data() {
     return {
       progress: 0,
