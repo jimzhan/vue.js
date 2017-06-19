@@ -8,6 +8,7 @@
         <li><a href="/#/">Home</a></li>
         <li><a href="#">Koa</a></li>
         <li><a href="/#/demo">Demo</a></li>
+        <li><a href="/#/users">Users</a></li>
       </ul>
     </div>
     <div class="top-bar-right">
